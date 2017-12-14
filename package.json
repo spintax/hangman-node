@@ -1,0 +1,24 @@
+{
+  "name": "hangman-node",
+  "version": "0.1.0",
+  "description": "a hangman app for node js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spintax/hangman-node.git"
+  },
+  "author": "Adam Magee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spintax/hangman-node/issues"
+  },
+  "homepage": "https://github.com/spintax/hangman-node#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "prompt": "^1.0.0"
+    
+  }
+}
